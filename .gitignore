@@ -1,3 +1,4 @@
+config.py
 # Файлы окружения Python
 __pycache__/
 *.pyc
